@@ -20,7 +20,7 @@ do
         ;;
 
      *)
- echo "Invalid input..."
+ echo "Invalid input"
  ;;
  esac
 done
